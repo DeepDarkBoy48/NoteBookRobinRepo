@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Cursor & Smart-env
+.cursor/
+.smart-env/
+.cursorignore
+
+# Obsidian
+.obsidian/ 
