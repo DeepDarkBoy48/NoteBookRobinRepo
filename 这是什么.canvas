@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"c3ad45ba2454a43f","x":-400,"y":-40,"width":250,"height":60,"type":"text","text":"这是伟大的发明"}
+		{"id":"dbf0d89eee2c815a","x":-410,"y":-242,"width":250,"height":60,"color":"2","type":"text","text":"awdawd"},
+		{"id":"c3ad45ba2454a43f","type":"text","text":"这是伟大的发明","x":-580,"y":-20,"width":250,"height":60},
+		{"id":"2c459324763a5a35","x":-410,"y":140,"width":400,"height":400,"type":"file","file":"前端/vue.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"cedd4089110e90e6","fromNode":"c3ad45ba2454a43f","fromSide":"right","toNode":"dbf0d89eee2c815a","toSide":"bottom"},
+		{"id":"87d01b7650f8203a","fromNode":"c3ad45ba2454a43f","fromSide":"bottom","toNode":"2c459324763a5a35","toSide":"top"}
+	]
 }
